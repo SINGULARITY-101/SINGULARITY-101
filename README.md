@@ -5,7 +5,7 @@
 - 😎 Currently learning about **Open CV**
 - 👯 I have a lot of experiencce when it comes to working in teams
 - 📫 Email :- **kwatra.vishesh@gmail.com**
-- ⚡ Fun Fact :- I am an avid football fan and have played competitive football for over 2 years
+- ⚡ Fun Fact :- I am an avid football fan and I have played competitive football for over 2 years
 
 
 <h3 align="left">Connect with me:</h3>
