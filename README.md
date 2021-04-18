@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishesh Kwatra</h1>
 <h3 align="center">A passionate coder who is always trying to learn new things!</h3>
 
-- 🌱 I’m currently learning **Open CV**
+- 💙 I have delved into a variety of fields: Data Analysis, Cybersecurity, Frontend Web Development, Machine Learning
+- 😎 Currently learning about Open CV
+- 👯 I have a lot of experiencce when it comes to working in teams
+- 📫 Email :- **kwatra.vishesh@gmail.com**
+- ⚡ I am an avid football fan and have played competitive football for over 2 years
 
-- 📫 How to reach me **kwatra.vishesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
