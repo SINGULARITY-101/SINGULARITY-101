@@ -3,7 +3,7 @@
 
 - 💙 I have delved into a variety of fields: Data Analysis, Cybersecurity, Frontend Web Development, Machine Learning
 - 😎 Currently learning about **Open CV**
-- 👯 I have a lot of experiencce when it comes to working in teams
+- 👯 I have a lot of experience when it comes to working in teams
 - 📫 Email :- **kwatra.vishesh@gmail.com**
 - ⚡ Fun Fact :- I am an avid football fan and I have played competitive football for over 2 years
 
