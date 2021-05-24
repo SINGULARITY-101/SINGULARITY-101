@@ -2,7 +2,7 @@
 <h3 align="center">A passionate coder who is always trying to learn new things!</h3>
 
 - 💙 I have delved into a variety of fields: Data Analysis, Cybersecurity, Frontend Web Development, Machine Learning
-- 😎 Currently learning about **Open CV**
+- 😎 Currently learning about **Flutter**
 - 👯 I have a lot of experience when it comes to working in teams
 - 📫 Email :- **kwatra.vishesh@gmail.com**
 - ⚡ Fun Fact :- I am an avid football fan and I have played competitive football for over 2 years
