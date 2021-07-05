@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishesh_kwatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vishesh_kwatra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishesh-kwatra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishesh-kwatra" height="30" width="40" /></a>
+<a href="https://twitter.com/vishesh_kwatra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="vishesh_kwatra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishesh-kwatra" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="vishesh-kwatra" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/__singularity__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="__singularity__" height="30" width="40" /></a>
 </p>
 
